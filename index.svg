@@ -56,7 +56,7 @@
 					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
+					border-radius: 0px;
 					color: white;
 					text-align: center;
 				}
@@ -82,8 +82,8 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Hey there 👋</h1>
-				<p>Welcome to my github repo</p>
+				<h1>Hey there 👋, I'm Tito</h1>
+				<p>Welcome to my github</p>
 			</div>
 		</div>
 	</foreignObject>
